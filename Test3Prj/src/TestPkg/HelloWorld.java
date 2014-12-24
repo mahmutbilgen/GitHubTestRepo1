@@ -1,6 +1,6 @@
 package TestPkg;
 /*
- * Test desc 
+ * 
  */
 public class HelloWorld {
 /*
